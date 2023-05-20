@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Isaac-ej
 - 👀 I’m interested in learnig new technology
-- 🌱 I’m currently learning HTML CSS and Javascipt
+- 🌱 I’m currently fullstack developer at Microverse.
 - 💞️ I’m looking to collaborate on Vanilla Project ...
 - 📫  reach through email
 - ejamaisaac@gmail.com
